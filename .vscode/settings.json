@@ -30,7 +30,9 @@
   "files.associations": {
     "iostream": "cpp",
     "random": "cpp",
-    "cstdlib": "cpp"
+    "cstdlib": "cpp",
+    "*.tcc": "cpp",
+    "ostream": "cpp"
   },
   "C_Cpp_Runner.useMsvc": false,
   "C_Cpp.errorSquiggles": "Enabled"
